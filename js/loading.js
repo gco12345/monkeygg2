@@ -11,9 +11,8 @@ function changeLoadingTip() {
         'Why are you here?',
         'Just one more minute',
         'Go read a book :)',
-        'Hi guys'
-        'Welcome to the void of loading'
-        'We're almost there. Please be patient. Really.'
+        'Hi guys',
+        'Welcome to the void of loading',
     ];
     const element = document.getElementsByClassName('loading-tip')[0];
 
