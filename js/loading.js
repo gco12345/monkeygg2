@@ -13,6 +13,10 @@ function changeLoadingTip() {
         'Go read a book :)',
         'Hi guys',
         'Welcome to the void of loading',
+        'Waiting...',
+        'Go touch grass people',
+        'WHY IS THIS NOT WORKING?',
+        'What are you doing with your life?'
     ];
     const element = document.getElementsByClassName('loading-tip')[0];
 
